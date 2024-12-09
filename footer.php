@@ -35,6 +35,6 @@
 
    </div>
 
-   <p class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <a href="https://jimmykimunyi.vercel.app" target="_blank"><span>Jimmy Kimunyi</span></a> </p>
+   <p class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <a href="https://jimmykimunyi.vercel.app" target="_blank"><span>e-Kitabu</span></a> </p>
 
 </section>
