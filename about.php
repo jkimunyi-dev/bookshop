@@ -63,8 +63,8 @@ if(!isset($user_id)){
    <div class="box-container">
 
       <div class="box">
-         <img src="images/pic-1.png" alt="">
-         <p>We pride ourselves on accessibility, user-friendliness, and a passion for reading. Join our growing community of readers and let e-Kitabu be your gateway to endless possibilities. Start your reading journey today!</p>
+         <img src="images/pic1.jpg" alt="">
+         <p>"Chinua Achebe's 'Things Fall Apart' gave me a window into our heritage and the complexities of tradition versus change. It's a masterpiece that speaks to every African heart."</p>  
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -72,12 +72,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Kofi Adu</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-2.png" alt="">
-         <p>At e-Kitabu, we are dedicated to bringing knowledge and stories to your fingertips. Our platform is designed to provide a seamless experience for readers of all ages and interests, offering a wide selection of books across various genres. Whether you're looking to explore new ideas, dive into a thrilling story, or enhance your knowledge, e-Kitabu has something for everyone.</p>
+         <img src="images/pic2.jpg" alt="">
+         <p>"Ben Okri's 'The Famished Road' is pure magic! It made me feel as though I was walking between the worlds of spirits and humans. Absolutely enchanting."</p>  
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -85,12 +85,13 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Amina Yusuf</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-3.png" alt="">
-         <p>At e-Kitabu, we are dedicated to bringing knowledge and stories to your fingertips. Our platform is designed to provide a seamless experience for readers of all ages and interests, offering a wide selection of books across various genres. Whether you're looking to explore new ideas, dive into a thrilling story, or enhance your knowledge, e-Kitabu has something for everyone.</p>
+         <img src="images/pic3.jpg" alt="">
+         <p>"Chimamanda Ngozi Adichie writes with such grace and power. 'Half of a Yellow Sun' opened my eyes to our history in a way no textbook ever did."</p>  
+
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -98,12 +99,13 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Thando Moyo</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-4.png" alt="">
-         <p>We pride ourselves on accessibility, user-friendliness, and a passion for reading. Join our growing community of readers and let e-Kitabu be your gateway to endless possibilities. Start your reading journey today!</p>
+         <img src="images/pic4.jpg" alt="">
+         <p>"Ari Armah's storytelling feels like sitting by a village elder's fire. The way the landscapes and characters breathe life into her books is unforgettable."</p>  
+
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -111,12 +113,13 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Nyasha Ochieng</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-5.png" alt="">
-         <p>At e-Kitabu, we are dedicated to bringing knowledge and stories to your fingertips. Our platform is designed to provide a seamless experience for readers of all ages and interests, offering a wide selection of books across various genres. Whether you're looking to explore new ideas, dive into a thrilling story, or enhance your knowledge, e-Kitabu has something for everyone.</p>
+         <img src="images/pic5.jpg" alt="">
+         <p>"Wole Soyinka's 'Death and the King’s Horseman' is a play that sings of honor and duty. His words demand respect, much like the traditions he portrays."</p>  
+
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -124,12 +127,13 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Oluwasegun Alabi</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-6.png" alt="">
-         <p>We pride ourselves on accessibility, user-friendliness, and a passion for reading. Join our growing community of readers and let e-Kitabu be your gateway to endless possibilities. Start your reading journey today!</p>
+         <img src="images/pic6.jpg" alt="">
+         <p>"Nuruddin Farah’s 'Maps' is hauntingly beautiful. His exploration of identity and belonging felt like he was telling my own story in a different tongue."</p>  
+
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -137,7 +141,7 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Salma Hassan</h3>
       </div>
 
    </div>
@@ -151,69 +155,69 @@ if(!isset($user_id)){
    <div class="box-container">
 
       <div class="box">
-         <img src="images/author-1.jpg" alt="">
+         <img src="images/author1.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Kwei Armah</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-2.jpg" alt="">
+         <img src="images/author2.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Wole Soyinka</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-3.jpg" alt="">
+         <img src="images/author3.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Nurrudin Farrah</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-4.jpg" alt="">
+         <img src="images/author4.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Chimanda Ngozi</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-5.jpg" alt="">
+         <img src="images/author5.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Chinua Achebe</h3>
       </div>
 
       <div class="box">
-         <img src="images/author-6.jpg" alt="">
+         <img src="images/author6.jpg" alt="">
          <div class="share">
             <a href="#" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
          </div>
-         <h3>john deo</h3>
+         <h3>Ben Okri</h3>
       </div>
 
    </div>
