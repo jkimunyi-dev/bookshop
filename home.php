@@ -106,7 +106,7 @@ if(isset($_POST['add_to_cart'])){
 
       <div class="content">
          <h3>about us</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>At e-Kitabu, we are dedicated to bringing knowledge and stories to your fingertips. Our platform is designed to provide a seamless experience for readers of all ages and interests, offering a wide selection of books across various genres. Whether you're looking to explore new ideas, dive into a thrilling story, or enhance your knowledge, e-Kitabu has something for everyone.</p>
          <a href="about.php" class="btn">read more</a>
       </div>
 
@@ -118,7 +118,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
+      <p>Reach out to us across all social media?</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 
